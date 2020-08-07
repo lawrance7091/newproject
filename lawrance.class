@@ -2,5 +2,6 @@ class lawrance{
 
 		public static void main(string[]args){
 		   system.out.println("This is the first program here");
+                   system.out.println("Second line added now to the program");
 }
 }
